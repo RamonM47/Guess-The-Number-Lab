@@ -37,3 +37,7 @@ const game = {
 }
 
 game.play()
+
+function Refresh(){
+    location.reload();
+}
